@@ -1,6 +1,6 @@
 
 
-### hey there 
+### Hello There
 <a href="https://www.instagram.com/antoniuswisnu_/">
   <img align="left" alt="Antonius Wisnu's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -18,12 +18,7 @@
 
 <br />
 
-Saya adalah Mahasiswa Aktif Semester
-GENAP 2021/2022, Saya merupakan
-orang yang tertarik dalam bidang
-teknologi dan mempunyai cita-cita
-mendirikan perusahaan Start-Up
-teknologi hingga internasional
+I am an undergraduate Software Engineering Technology Student at Gadjah Mada University, I am a person who is interested in the field of technology and has aspirations of establishing a technology start-up company to international
 
 - 👋 Hi, I’m @antoniuswisnu
 - 👀 I’m interested in Software Engineer
