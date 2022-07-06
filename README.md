@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @antoniuswisnu
-- 👀 I’m interested in Software Engineer
-- 🌱 I’m currently learning coding (Python,Java,HTML)
-- 📫 How to reach me IG: @antoniuswisnu_
+
 
 ### hey there 
 <a href="https://www.instagram.com/antoniuswisnu_/">
@@ -27,6 +24,11 @@ orang yang tertarik dalam bidang
 teknologi dan mempunyai cita-cita
 mendirikan perusahaan Start-Up
 teknologi hingga internasional
+
+- 👋 Hi, I’m @antoniuswisnu
+- 👀 I’m interested in Software Engineer
+- 🌱 I’m currently learning coding (Python,Java,HTML)
+- 📫 How to reach me IG: @antoniuswisnu_
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
@@ -68,9 +70,9 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
-🏆  7,995 Karma Points           
+🏆  7,995 Points           
 🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
+✅  Completed 23 tasks so far           
 ⏳  Longest streak is 10 days
 <!-- TODO-IST:END -->
 
