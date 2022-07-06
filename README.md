@@ -14,7 +14,7 @@
   <img align="left" alt="Antonius Wisnu's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)
+![](https://i.gifer.com/3Eqa.gif)
 
 <br />
 
