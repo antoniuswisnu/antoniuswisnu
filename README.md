@@ -14,14 +14,14 @@
   <img align="left" alt="Antonius Wisnu's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://c.tenor.com/-SV9TjUGabMAAAAC/hacker-python.gif)
+![](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)
 
 <br />
 
 I am an undergraduate Software Engineering Technology Student at Gadjah Mada University, I am a person who is interested in the field of technology 👀 and has aspirations of establishing a technology start-up company to international
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
+  <img align="right" alt="GIF" src="https://c.tenor.com/-SV9TjUGabMAAAAC/hacker-python.gif" width="400" height="320" />
   
 - 💼 any freelance work? do reach, [email](antonius.kri2003@mail.ugm.ac.id) :)
 - 💬 ask me about anything, i am happy to help;
