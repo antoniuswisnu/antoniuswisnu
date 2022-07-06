@@ -76,7 +76,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 📈 my github stats
 
-<p align="center"> <img src="![GitHub Stats](https://github-readme-stats.vercel.app/api username=antoniuswisnu&theme=radical)" alt="Antonius Wisnu" />
+[![Wisnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoniuswisnu)](https://github.com/antoniuswisnu/github-readme-stats)
 
 
 
