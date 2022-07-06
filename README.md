@@ -66,7 +66,7 @@ Other        1 min           ░░░░░░░░░░░░░░░░░
 
 Go Checkout My Portofolio Website
 
-<a href="antoniuswisnu.github.io" target="_blank"><img src="https://cdn.dribbble.com/users/1491488/screenshots/5096807/gif.gif" alt="portofolio website" width="150" ></a>
+<a href="antoniuswisnu.github.io" target="_blank"><img src="https://cdn.dribbble.com/users/1491488/screenshots/5096807/gif.gif" alt="portofolio website" width="350" ></a>
 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
