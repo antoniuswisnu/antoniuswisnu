@@ -76,7 +76,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 📈 my github stats
 
-[![Wisnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoniuswisnu)](https://github.com/antoniuswisnu/github-readme-stats)
+[![Wisnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoniuswisnu&show_icons=true&count_private=true&theme=radical)](https://github.com/antoniuswisnu/github-readme-stats)
 
 
 
