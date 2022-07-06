@@ -14,7 +14,7 @@
   <img align="left" alt="Antonius Wisnu's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+![](https://c.tenor.com/-SV9TjUGabMAAAAC/hacker-python.gif)
 
 <br />
 
