@@ -58,7 +58,7 @@ Go Checkout My Portofolio Website
 
 <a href="antoniuswisnu.github.io" target="_blank"><img src="https://cdn.dribbble.com/users/1491488/screenshots/5096807/gif.gif" alt="portofolio website" width="350" ></a>
 
-🚧 **my todoist stats:**
+🚧 **my to do is stats:**
 <!-- TODO-IST:START -->
 🏆  7,995 Points           
 🌸  Completed 0 tasks today           
