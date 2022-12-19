@@ -56,7 +56,7 @@ Other        1 min           ░░░░░░░░░░░░░░░░░
 
 Go Checkout My Portofolio Website
 
-<a href="antoniuswisnu.github.io" target="_blank"><img src="" alt="portofolio website" width="350" ></a>
+<a href="antoniuswisnu.github.io" target="_blank"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DAKNvTxWOdKw&psig=AOvVaw3h__0Ed8R1mlg04zNwZkSp&ust=1671559977878000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMDAoaekhvwCFQAAAAAdAAAAABAD" alt="portofolio website" width="350" ></a>
 
 🚧 **my to do is stats:**
 <!-- TODO-IST:START -->
