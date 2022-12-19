@@ -44,8 +44,8 @@ I am an undergraduate Software Engineering Technology Student at Gadjah Mada Uni
 <!--START_SECTION:waka-->
 
 ```text
-Python       4 hrs 46 mins   ████████████████████░░░░░   80.02 %
-Java         31 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 %
+Java         4 hrs 46 mins   ████████████████████░░░░░   80.02 %
+Python       31 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 %
 Dart         27 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 %
 HTML         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
 Kotlin       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
