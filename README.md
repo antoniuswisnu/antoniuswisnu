@@ -43,7 +43,7 @@ I am an undergraduate Software Engineering Technology Student at Gadjah Mada Uni
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dimasmds&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=antoniuswisnu&layout=compact&langs_count=8&theme=algolia"/>
 
 
 <!--END_SECTION:waka-->
