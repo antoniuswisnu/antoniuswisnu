@@ -43,14 +43,8 @@ I am an undergraduate Software Engineering Technology Student at Gadjah Mada Uni
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 
-```text
-Java         4 hrs 46 mins   ████████████████████░░░░░   80.02 %
-Python       31 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 %
-Dart         27 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 %
-HTML         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
-Kotlin       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
-```
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dimasmds&layout=compact&langs_count=8&theme=algolia"/>
+
 
 <!--END_SECTION:waka-->
 
