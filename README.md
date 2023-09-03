@@ -50,7 +50,7 @@ I am an undergraduate Software Engineering Technology Student at Gadjah Mada Uni
 
 Go Checkout My Portofolio Website
 
-<a href="antoniuswisnu.github.io" target="_blank"><img src="https://lh3.googleusercontent.com/vdKbcWCGwxtvvoZG5LK-rQcix_6mXl7Z2zzVil3ggiZ6hUETgtSVdbw0hrNAbRoCTCuSt_yn4EJrBS5XzILlYBxGIhMuikJ9nVt1HVA5nI76zA5ludsdTQF9t-ANf4lZPV7Wli9JzTrA8fj1wa5YAgcza7EK1Y8uqcj92Hjm1jaJJ10OJAkdaQg6oB7lKQ" alt="portofolio website" width="350" ></a>
+<a href="antoniuswisnu.github.io" target="_blank"><img src="https://lh3.googleusercontent.com/vdKbcWCGwxtvvoZG5LK-rQcix_6mXl7Z2zzVil3ggiZ6hUETgtSVdbw0hrNAbRoCTCuSt_yn4EJrBS5XzILlYBxGIhMuikJ9nVt1HVA5nI76zA5ludsdTQF9t-ANf4lZPV7Wli9JzTrA8fj1wa5YAgcza7EK1Y8uqcj92Hjm1jaJJ10OJAkdaQg6oB7lKQ" alt="portofolio website" width="22px" ></a>
 
 
 
