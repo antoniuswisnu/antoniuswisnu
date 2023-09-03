@@ -21,7 +21,7 @@
 I am an undergraduate Software Engineering Technology Student at Gadjah Mada University, I am a person who is interested in the field of technology 👀 and has aspirations of establishing a technology start-up company to international
 
 
-  <img align="right" alt="GIF" src="https://c.tenor.com/-SV9TjUGabMAAAAC/hacker-python.gif" width="400" height="320" />
+  <img align="right"  src="https://c.tenor.com/-SV9TjUGabMAAAAC/hacker-python.gif](https://developer.android.com/static/images/social/android-developers.png" width="400" height="320" />
   
 - 💼 any freelance work? do reach, [email](antonius.kri2003@mail.ugm.ac.id) :)
 - 💬 ask me about anything, i am happy to help;
@@ -50,8 +50,9 @@ I am an undergraduate Software Engineering Technology Student at Gadjah Mada Uni
 
 Go Checkout My Portofolio Website
 
-<a href="antoniuswisnu.github.io" target="_blank"><img src="https://lh3.googleusercontent.com/vdKbcWCGwxtvvoZG5LK-rQcix_6mXl7Z2zzVil3ggiZ6hUETgtSVdbw0hrNAbRoCTCuSt_yn4EJrBS5XzILlYBxGIhMuikJ9nVt1HVA5nI76zA5ludsdTQF9t-ANf4lZPV7Wli9JzTrA8fj1wa5YAgcza7EK1Y8uqcj92Hjm1jaJJ10OJAkdaQg6oB7lKQ" alt="portofolio website" width="22px" ></a>
-<p>Portofolio Website</p>
+<a href="antoniuswisnu.github.io" target="_blank">
+   Portofolio Website
+</a>
 
 
 
