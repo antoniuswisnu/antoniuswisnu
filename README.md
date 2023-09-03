@@ -11,7 +11,7 @@
   <img align="left" alt="Antonius Wisnu| Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/220px-Logo_of_Twitter.svg.png" />
 </a>
 <a href="https://www.linkedin.com/in/antonius-wisnu-bb8411224/">
-  <img align="left" alt="Antonius Wisnu's Linkedin" width="22px" src="https://cdn.pixabay.com/photo/2017/08/22/11/56/linked-in-2668700_960_720.png" />
+  <img align="left" alt="Antonius Wisnu's Linkedin" width="22px" src="https://www.admsep.org/images/icons/linkedin.png" />
 </a>
 
 ![](https://i.gifer.com/3Eqa.gif)
