@@ -19,9 +19,6 @@
 <br />
 
 I am an undergraduate Software Engineering Technology Student at Gadjah Mada University, I am a person who is interested in the field of technology 👀 and has aspirations of establishing a technology start-up company to international
-
-  <img align="right"  src="https://developer.android.com/static/images/social/android-developers.png" width="400" height="320" />
-
   
 - 💼 any freelance work? do reach, [email](antonius.kri2003@mail.ugm.ac.id) :)
 - 💬 ask me about anything, i am happy to help;
