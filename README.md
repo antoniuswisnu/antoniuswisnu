@@ -37,23 +37,7 @@ I am an undergraduate Software Engineering Technology Student at Gadjah Mada Uni
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=antoniuswisnu&layout=compact&langs_count=8&theme=algolia"/>
-
-
-<!--END_SECTION:waka-->
-
-Go Checkout My Portofolio Website
-
-<a href="antoniuswisnu.github.io" target="_blank">
-   Portofolio Website
-</a>
-
-
-
-📈 my github stats
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=antoniuswisnu&layout=compact&langs_count=8&theme=algolia"/>
 
 [![Wisnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoniuswisnu&show_icons=true&count_private=true&theme=radical)](https://github.com/antoniuswisnu/github-readme-stats)
 
