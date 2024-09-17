@@ -14,7 +14,7 @@
   <img align="left" alt="Antonius Wisnu's Linkedin" width="22px" src="https://www.admsep.org/images/icons/linkedin.png" />
 </a>
 
-![](https://i.gifer.com/3Eqa.gif)
+![]()
 
 <br />
 
