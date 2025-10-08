@@ -15,9 +15,13 @@
 
 <br />
 
-I am an undergraduate Software Engineering Technology Student at Gadjah Mada University, I am a person who is interested in the field of technology 👀 and has aspirations of establishing a technology start-up company to international
+A recent graduate of Software Engineering Technology from Universitas Gadjah Mada. Focused and 
+interested in software application development, website development, machine learning, and UI/UX Design. 
+Accustomed to working in teams and independently, responsible, and diligent. Actively participates in 
+internships, research, and technology competitions. Committed to continuous learning, adapting quickly to 
+new technologies, and making real contributions through innovative digital solutions.
   
-- 💼 any freelance work? do reach, [email](antonius.kri2003@mail.ugm.ac.id) :)
+- 💼 any freelance work? do reach, [email](antoniuswisnu24@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
@@ -37,6 +41,3 @@ I am an undergraduate Software Engineering Technology Student at Gadjah Mada Uni
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=antoniuswisnu&layout=compact&langs_count=8&theme=algolia"/>
 
 [![Wisnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoniuswisnu&show_icons=true&count_private=true&theme=radical)](https://github.com/antoniuswisnu/github-readme-stats)
-
-
-
