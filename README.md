@@ -4,9 +4,6 @@
 <a href="https://www.instagram.com/antoniuswisnu_/">
   <img align="left" alt="Antonius Wisnu's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="discordapp.com/users/429286009511870474">
-  <img align="left" alt=Antonius Wisnu's Discord" width="22px" src="https://images-eds-ssl.xboxlive.com/image?url=Q_rwcVSTCIytJ0KOzcjWTYl.n38D8jlKWXJx7NRJmQKBAEDCgtTAQ0JS02UoaiwRCHTTX1RAopljdoYpOaNfVf5nBNvbwGfyR5n4DAs0DsOwxSO9puiT_GgKqinHT8HsW8VYeiiuU1IG3jY69EhnsQ--&format=source" />
-</a>
 <a href="https://twitter.com/antoniuswisnuu">
   <img align="left" alt="Antonius Wisnu| Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/220px-Logo_of_Twitter.svg.png" />
 </a>
